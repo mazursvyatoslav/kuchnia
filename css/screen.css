@@ -1,0 +1,142 @@
+@media only screen and (max-width : 767px) {
+	/***************** SECTION-1 ***********************/
+.section-1{
+	background: #fff;
+}
+.section-1 div:nth-child(1){
+    padding: 0px 10px;
+}
+	/***************** SECTION-2 ***********************/
+.section-2{
+    padding: 50px 10px;
+}
+.section-2 h2 {
+    font-size: 34px;
+}
+	/***************** SECTION-3 ***********************/
+.section-3{
+    padding: 50px 10px!important;
+}
+.section-3 input{
+    width: 100%!important;
+}
+.section-3 h3 {
+    font-size: 29px;
+}
+	/***************** SECTION-4 ***********************/
+.slide-slide {
+    max-width: 100%;
+}
+.prev, .next {
+    top: 45%;
+}
+.section-4 h3 {
+    font-size: 25px;
+}
+.price h3 {
+    font-size: 20px!important;
+    margin-top: 29px;
+}
+.section-4 h3 {
+    font-size: 25px;
+}
+.section-4 .btn-green button {
+    width: 40px;
+    height: 40px;
+}
+	/***************** SECTION-5 ***********************/
+.section-5 h3 {
+    font-size: 35px;
+}
+.list {
+    padding-left: 40px!important;
+}
+.section-5 div:nth-child(7) h3 {
+    padding: 60px 10px;
+}
+.section-5 button {
+    width: 250px;
+}
+.section-5 {
+    padding: 50px 0px 0px 0px;
+}
+	/***************** SECTION-6 ***********************/
+.section-6{
+    padding: 60px 0px 30px 0px;
+}
+.section-6 h3 {
+    font-size: 35px;
+}
+	/***************** SECTION-7 ***********************/
+.section-7 h3 {
+    width: auto;
+    padding: 0 10px;
+}
+	/***************** SECTION-8 ***********************/
+.order{
+	margin-top: 40px;
+}
+	/***************** SECTION-9 ***********************/
+.price1 {
+    height: 400px;
+    left: 10px;
+}
+.section-9{
+	height: 600px;
+}
+.section-9 .btn-green button {
+    width: 40px;
+    height: 40px;
+}
+.section-9 h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.prev1, .next1 {
+    top: 100%;
+}
+}
+
+@media only screen and (max-width : 1260px) {
+/***************** SECTION-3 ***********************/
+.section-3{
+    padding: 50px 50px;
+}
+.section-3 input{
+    width: 90%;
+    float: left;
+}
+.section-3 form{
+	margin-top: 40px;
+}
+	/***************** SECTION-4 ***********************/
+.prev {
+    left: 0;
+}
+.next {
+    right: 0;
+}
+.btn-slide-slide {
+   margin-right: 0px!important;
+}
+	/***************** SECTION-5 ***********************/
+.section-5 h4 {
+    min-height: 30px;
+}
+	/***************** SECTION-6 ***********************/
+.section-6 img {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    width: 260px;
+}
+.list2 {
+    margin-top: 20px;
+}
+	/***************** SECTION-9 ***********************/
+.section-9 {
+    padding: 60px 10px;
+}
+.prev1 {
+    left: 0;
+}
+}
